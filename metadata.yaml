@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8204'
     url: http://www.gutenberg.org/2009/agents/8204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19037#Transactions-of-the-American-Society-of-Civil-Engineers-Vol.-LXVIII-Sept.-1910The-Cross-Town-_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2006-08-13'
 gutenberg_type: Text
